@@ -2,6 +2,7 @@
   font-family: arial, sans-serif;
   border: 1px solid #dadde1;
   padding: 16px;
+  height: 233.6px;
   border-radius: 4px;
   color: rgb(135, 135, 135);
 }
@@ -11,11 +12,12 @@
   font-weight: 100;
   margin: 20px 0 0 0;
   line-height: 29px;
+  padding-left: 10px;
 }
 
 .Weather ul {
   margin: 0;
-  padding: 0;
+  padding: 10px;
 }
 
 .Weather li {
@@ -29,6 +31,7 @@
   height: 64px;
   width: 64px;
   margin-right: 10px;
+  margin-bottom: 30px;
   display: inline-block;
 }
 
